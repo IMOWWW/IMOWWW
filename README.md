@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @IMOWWW
-- 👀 I’m interested in program languages, musical instruments
+- 👀 I’m interested in programm languages, musical instruments
 - 🌱 I’m currently learning Python, C++, Java
-
+- 📫 How to reach me ... Telegram @IMOWWW
 
 <!---
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 --->
 <!---
 IMOWWW/IMOWWW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
