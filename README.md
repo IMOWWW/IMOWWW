@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python, C++, Java
 - 📫 How to reach me ... Telegram @IMOWWW
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOWWW&show_icons=true&theme=tokyonight)
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 
