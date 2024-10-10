@@ -4,10 +4,10 @@
 - 📫 How to reach me ... Telegram @IMOWWW
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOWWW&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMOWWW&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IMOWWW&show_icons=true&theme=tokyonight&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=IMOWWW&show_icons=true&theme=tokyonight&layout=compact)
+
 
 <!---
 - 💞️ I’m looking to collaborate on ...
